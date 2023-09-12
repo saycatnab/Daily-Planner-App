@@ -18,7 +18,7 @@ Using the starter code, I have used jQuery logic to do the following:
 - Persist events between refreshes of a page.
 
 Please check the index.js to see the source code
-Please check the Deployed Application () to see the console.
+Please check the Deployed Application (https://saycatnab.github.io/Daily-Planner-App/) to see the console.
 
 
 # Screenshots
@@ -30,3 +30,4 @@ This is how the Financial Analysis looks in the console
 
 # Link to Deployed Applications
 
+https://saycatnab.github.io/Daily-Planner-App/
