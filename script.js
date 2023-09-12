@@ -12,6 +12,12 @@ $(document).ready(function(){
 
         localStorage.setItem(timeID, value);
 
-        $(".notification").addClass('show')
+        $(".notification").addClass('show');
+
+
+        setTimeout(function(){
+            $(".notification").removeClass("show");
+        }, 5000)
     })
 })
+
